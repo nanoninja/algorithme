@@ -2,6 +2,8 @@
 
 Introduction à l'algorithmique
 
+---
+
 ## Définition
 
 > Un algorithme est une suite finie et non ambiguë d’opérations ou d'instructions permettant de résoudre un problème ou d'obtenir un résultat.
@@ -10,11 +12,15 @@ Introduction à l'algorithmique
 
 L'algorithme est un ensemble d'instructions rigoureuses et ordonnées qui oblige à une écriture structurée.
 
+---
+
 ## Étymologie
 
 Surnommé « le père de l'algèbre », le mot algorithme vient du nom d'un mathématicien perse du IXe siècle, **Al-Khwârizmî** (latinisé en Algoritmi).
 
 L’algorithmique est le domaine qui étudie les algorithmes.
+
+---
 
 ## Algorithme VS Programmation
 
