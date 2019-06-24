@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+# Algorithme
 
-You can use the [editor on GitHub](https://github.com/nanoninja/algorithme.gitbook.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- NOTIONS DE BASE
+  - [Qu'est-ce qu'un algorithme](notions-de-base/quest-ce-qu-un-algorithme)
+  - [Exemples d'algorithme](notions-de-base/exemples-d-algorithme)
 
 ### Markdown
 
