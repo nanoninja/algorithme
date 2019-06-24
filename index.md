@@ -3,6 +3,7 @@
 - NOTIONS DE BASE
   - [Qu'est-ce qu'un algorithme](notions-de-base/quest-ce-qu-un-algorithme)
   - [Exemples d'algorithme](notions-de-base/exemples-d-algorithme)
+  - [Structure d'un algorithme](notions-de-base/structure-d-un-algorithme)
 
 ### Markdown
 
