@@ -12,7 +12,7 @@ L'algorithme est un ensemble d'instructions rigoureuses et ordonnées qui oblige
 
 ## Étymologie
 
-Surnommé « le père de l'algèbre », le mot algorithme vient du nom d'un mathématicien perse du IXe siècle, Al-Khwârizmî (latinisé en Algoritmi).
+Surnommé « le père de l'algèbre », le mot algorithme vient du nom d'un mathématicien perse du IXe siècle, **Al-Khwârizmî** (latinisé en Algoritmi).
 
 L’algorithmique est le domaine qui étudie les algorithmes.
 
@@ -20,7 +20,7 @@ L’algorithmique est le domaine qui étudie les algorithmes.
 
 > L'informatique n'est pas plus la science des ordinateurs que l'astronomie n'est celle des télescopes.
 >
-> Dijkstra, Turing award 1972.
+> **Dijkstra, Turing award 1972**.
 
 Un programme implémente un algorithme.
 
